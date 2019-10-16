@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/find.png</file>
+        <file>images/password.png</file>
+        <file>images/username.png</file>
+    </qresource>
+</RCC>
